@@ -22,18 +22,18 @@ Para la creación de la base de datos, ejecutamos los siguientes scripts en ese 
 6. En el archivo [consultas_BBDD_jugueteria.sql](https://github.com/miriam-gl/BBDD_SQL_Jugueteria-ProyectoUniversidad/blob/main/consultas_BBDD_jugueteria.sql)
  encontrarás alrededor de 7 consultas SQL que permiten explorar la base de datos de la juguetería. Lo que se obtiene de las consultas es:
 
-(a) Una consulta básica, que muestra los clientes cuyo apellido paterno comience con M.
+       (a) Una consulta básica, que muestra los clientes cuyo apellido paterno comience con M.
 
-(b) Una subconsulta de 3 niveles, donde se obtiene al cliente que ha realizado la compra más cara.
+       (b) Una subconsulta de 3 niveles, donde se obtiene al cliente que ha realizado la compra más cara.
 
-(c) Se realiza la misma consulta que en (b), pero con CTE’s.
+       (c) Se realiza la misma consulta que en (b), pero con CTE’s.
 
-(d) Una consulta compuesta, donde se obtiene el nombre de los clientes y los detalles de sus compras, incluyendo los precios de los juguetes.
+       (d) Una consulta compuesta, donde se obtiene el nombre de los clientes y los detalles de sus compras, incluyendo los precios de los juguetes.
 
-(e) Muestra los precios de los 5 juguetes más caros vendidos.
+       (e) Muestra los precios de los 5 juguetes más caros vendidos.
 
-(f) Con la función crosstab se muestran las ganancias de los vendedores con ID del 1 al 5 por fecha.
+       (f) Con la función crosstab se muestran las ganancias de los vendedores con ID del 1 al 5 por fecha.
 
-(g) Usando una fnción de ventana, se obtienen a los 100 clientes que, en promedio, gastan más en la juguetería.
+       (g) Usando una fnción de ventana, se obtienen a los 100 clientes que, en promedio, gastan más en la juguetería.
 
 
